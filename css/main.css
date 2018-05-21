@@ -1959,7 +1959,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #60ff85;
+  background: #bbff3d;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2917,8 +2917,8 @@ body {
   -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
 }
 * {
-  cursor: url("http://pic.caigoubao.cc/602288/qin.png"), auto !important;
+  cursor: url("http://pic.caigoubao.cc/602288/bitbug_favicon(2).png"), auto !important;
 }
 :active {
-  cursor: url("http://pic.caigoubao.cc/602288/qin.png"), auto !important;
+  cursor: url("http://pic.caigoubao.cc/602288/bitbug_favicon(2).png"), auto !important;
 }
